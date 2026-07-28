@@ -1,0 +1,6 @@
+aiogram
+flask
+requests
+uvicorn
+gunicorn
+asyncio
